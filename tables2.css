@@ -1,0 +1,31 @@
+form {
+	/*border: 4px  stroke-linecap: d #000;*/
+	margin:5% 25%;
+	align-items: center;
+	text-align: left;
+	/*box-sizing: border-box;*/
+	width: 300px;
+	font-family: 'Tahoma';
+	font-weight: 2px
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="submit"] {
+	/*justify: left;*/
+	border:solid 1.1px red;
+	width: inherit;
+	padding: 9px;
+	margin-top: 7px;
+	margin-bottom: 11px;
+}
+
+input[type="submit"] {
+	background-color: green;color:white;
+}
+
+form h2 {
+	border: dashed 1px yellow;
+	text-align: center;
+	width: 100%;
+}

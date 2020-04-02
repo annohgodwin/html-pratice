@@ -1,0 +1,28 @@
+body{background-color: pink;color:black;}
+
+.program{text-align: right;color: green;
+	margin: 5%; margin-bottom: 1.3px }
+
+table{
+	background-color: rgb(0, 0, 0, 0.234);
+	font-family: 'Open Sans';
+	padding: 10px;
+	border-radius: 6px;
+	border:1.3px;
+	border-color: blue;
+	word-wrap: none;
+	word-break: initial;
+	float: right;
+}
+
+
+table td {
+	border: 1.3px solid #000;
+
+}
+
+span{
+	color: red;
+}
+
+.table{margin: 15%;}

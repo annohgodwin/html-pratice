@@ -1,0 +1,6 @@
+h1{background-color:blue;
+	text-align:center;}
+	div {margin: 25px 15px 10px 30px; padding: 15px;}
+	.football{animation-direction: right; color:blue;position: sticky;/*width:100%;*/background-color:blue;text-align:center;color: yellow}
+
+	img{width:50%; height:100vh;}
